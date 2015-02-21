@@ -7,5 +7,5 @@
 [以前的答案【1-70】](http://www.kylen314.com/category/note/project-euler)
 
 ## 进度：
-1-22：Mathematica
+1-26：Mathematica
 67：Mathematica
